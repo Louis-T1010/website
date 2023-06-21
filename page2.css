@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(223, 255, 255);
+}
+
+h1 {
+    color: rgb(255, 125, 147);
+    margin-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+    color: navey;
+    margin-left: 20px;
+}
